@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=969
+
+as the assembly/pic syntax file was made for 16fxx family, I made changes to this file for 18fxxx assembly.
